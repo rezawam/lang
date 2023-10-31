@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/2004np/Programming/lang/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/2004np/Programming/lang/include/lexer -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/lang.dir/main.cpp.o -c /Users/2004np/Programming/lang/main.cpp",
+  "file": "/Users/2004np/Programming/lang/main.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/lang/build",
+  "command": "/usr/local/bin/g++-11  -I/Users/2004np/Programming/lang/include/lexer -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/lang.dir/src/lexer/scanner.cpp.o -c /Users/2004np/Programming/lang/src/lexer/scanner.cpp",
+  "file": "/Users/2004np/Programming/lang/src/lexer/scanner.cpp"
+},
+{
+  "directory": "/Users/2004np/Programming/lang/build/tests",
+  "command": "/usr/local/bin/g++-11  -I/Users/2004np/Programming/lang/include/lexer -isystem /opt/local/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -std=gnu++17 -o CMakeFiles/tests.dir/lexer_cases.cpp.o -c /Users/2004np/Programming/lang/tests/lexer_cases.cpp",
+  "file": "/Users/2004np/Programming/lang/tests/lexer_cases.cpp"
+}
+]
